@@ -2,6 +2,7 @@
 
 An **AI-powered Retrieval-Augmented Generation (RAG) system** that enables intelligent question answering over PDF documents using semantic search and a local Large Language Model.
 
+
 ---
 
 ## 🧠 Overview
@@ -57,6 +58,21 @@ Final Answer + Sources
 ```
 
 ---
+
+## Project Setup
+
+Add your project image inside the **images folder**.
+
+Example:
+
+images/project_setup.jpg
+
+Then it will automatically appear here:
+
+![Project Setup](images/RAG.png)
+
+---
+
 
 ## 🧰 Tech Stack
 
